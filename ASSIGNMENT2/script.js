@@ -14,29 +14,29 @@ $(document).ready(function() {
     };
     var starter = {
       firstDish: "Salad",
-      firstDishPrice: 15,
+      firstDishPrice: 450,
       secondDish: "Soup",
-      secondDishPrice: 7,
+      secondDishPrice: 200,
       thirdDish: "Fish rolls",
-      thirdDishPrice: 12
+      thirdDishPrice: 320,
     };
   
     var main = {
       firstDish: "Steak",
-      firstDishPrice: 17,
+      firstDishPrice: 700,
       secondDish: "Salmon",
-      secondDishPrice: 12,
+      secondDishPrice: 900,
       thirdDish: "Rissotto",
-      thirdDishPrice: 9
+      thirdDishPrice: 530
     };
   
     var dessert = {
       firstDish: "Sorbet",
-      firstDishPrice: 4,
-      secondDish: "Fruit salad",
-      secondDishPrice: 6,
+      firstDishPrice: 340,
+      secondDish: "Tiramisu",
+      secondDishPrice: 200,
       thirdDish: "Apple pie",
-      thirdDishPrice: 5
+      thirdDishPrice: 380
     };
   
     function total() {
